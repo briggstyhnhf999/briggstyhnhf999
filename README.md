@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm briggstyhnhf999
 
-<!--
-**briggstyhnhf999/briggstyhnhf999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 🎯 Building the future with UI/UX design 🎨 🎯
 
-Here are some ideas to get you started:
+## About Me
+🏏 💡 A geek in databases 🏏 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏓 🎮 🎣 🎧 A passionate developer who loves tech reviews 🏓 🎮 🎣 🎧
+
+### Fun Facts
+🚵 🌟 Exploring the world of devops 🚵 🌟
+
+---
+🚵 🎤 🥊 🎰 🎱 Thanks for visiting my profile! 🛶 🎺 🎮 🏏 ✨
